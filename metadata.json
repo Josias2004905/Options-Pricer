@@ -1,0 +1,6 @@
+{
+  "name": "Black-Scholes Explorer",
+  "description": "Une application interactive pour explorer l'équation de Black-Scholes et sa résolution avec FreeFem++.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
